@@ -39,22 +39,19 @@
 
 ![screenshot](https://github.com/Unyimesax/404/blob/master/screenshot.png)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
-- Where can I see your demo?
-- 
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+This project is an error 404 landing page built only with HTML and CSS. You can view the project in realtime on www.kind-beaver.netlify.app.
+Building this project took me a longer time than expected, because it was only when I started working on it, I realized that I didn't know how 
+to do things like using git and github from the command line, hosting the project on netlify, responsive designs with media query ...etc. 
+It was indeed expository for me because I learnt a lot doing this project: including little things like testing on different screen sizes using
+dev tools. I'm excited about jumping on to the next project.  
+
 
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
-
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
-
+- HTML
+- CSS
 ## Features
 
 <!-- List the features of your application or follow the template. Don't share the figma file here :) -->
@@ -71,6 +68,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+
+- GitHub [@your-username](https://{github.com/Unyimesax})
+- Twitter [@your-twitter](https://{twitter.com/unyimesax})
