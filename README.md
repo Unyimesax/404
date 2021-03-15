@@ -69,5 +69,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Contact
 
 
-- GitHub [@your-username](https://{github.com/Unyimesax})
-- Twitter [@your-twitter](https://{twitter.com/unyimesax})
+- GitHub [@Unyimesax](https://{github.com/Unyimesax})
+- Twitter [@unyimesax](https://{twitter.com/unyimesax})
