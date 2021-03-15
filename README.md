@@ -8,15 +8,12 @@
 
 <div align="center">
   <h3>
-<<<<<<< HEAD
-    <a href="https://www.kind-beaver.netlify.app}">
-=======
+    <a href="https://www.kind-beaver.netlify.app}"
     <a href="https://kind-beaver.netlify.app">
->>>>>>> 5fbb197ddf98475773072e46538a6f0b7f144d5f
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/Unyimesax/404-page-not-found/tree/master">
+    <a href="https://github.com/Unyimesax/404/tree/master">
       Solution
     </a>
     <span> | </span>
